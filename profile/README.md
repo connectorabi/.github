@@ -27,7 +27,7 @@ ConnectorAbi developed by [MiaJupiter](https://aliabi.org)
 
 ```mermaid
 flowchart TD
-    ccJS(fas:fa-city<br>connectir.io)
+    ccJS(fas:fa-city<br>connectorabi.com)
     ccService(((fa:fa-gear<br>Client Connector<br>Service)))
     ccWebSocket[fas:fa-plug WebSocket Manager]
     ccRestApi[fas:fa-arrows-to-dot RestAPI]
